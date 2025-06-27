@@ -19,7 +19,10 @@
 <nav class={`fixed top-0 left-0 w-full z-50 transition-all duration-300 ${scrolled ? 'bg-white shadow' : 'bg-transparent'}`}>
   <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center justify-between py-4">
     <!-- Logo -->
-    <img src="/images/logo.png" alt="Kabima Logo" class="h-8 md:h-6 drop-shadow-[0_3px_4px_rgba(255,255,255,0.5)]" />
+     <a href="#hero" class="cursor-pointer">
+       <img src="/images/logo.png" alt="Kabima Logo" class="h-24 md:h-6 bg-white rounded-lg p-1" />
+       <!-- drop-shadow-[0_3px_4px_rgba(255,255,255,0.5)] -->
+     </a>
 
     <!-- Desktop Nav -->
     <div class="hidden md:flex space-x-6">

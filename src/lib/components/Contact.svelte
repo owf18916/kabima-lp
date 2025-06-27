@@ -1,15 +1,12 @@
 <section id="contact" class="bg-gray-100 py-20 px-6">
   <div class="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 text-left text-gray-700 text-sm">
-    
-    <!-- Column 1: Produk -->
-    <div>
-      <h3 class="text-lg font-semibold mb-3">Produk</h3>
-      <ul class="space-y-2">
-        <li><a href="#portfolio" class="hover:underline">Inventory System</a></li>
-        <li><a href="#portfolio" class="hover:underline">Point of Sales</a></li>
-        <li><a href="#portfolio" class="hover:underline">Dashboard</a></li>
-        <li><a href="#portfolio" class="hover:underline">Accounting</a></li>
-      </ul>
+
+    <!-- Column 1: The Company -->
+    <div class="col-span-1 flex flex-col gap-4 items-start">
+      <img src="/images/logo.png" alt="Kabima Logo" class="h-8" />
+      <p class="text-gray-600 text-xs max-w-xs">
+        PT. Kabima Technology Indonesia adalah mitra transformasi digital Anda dalam bidang IT Consulting dan Software Development.
+      </p>
     </div>
 
     <!-- Column 2: Services -->
