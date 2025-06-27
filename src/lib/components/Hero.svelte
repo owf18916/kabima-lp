@@ -13,15 +13,6 @@
   });
 </script>
 
-<!-- <section
-  class="opacity-0 min-h-screen flex flex-col justify-center items-center text-center px-4 bg-gray-900 text-white transition duration-700"
->
-  <img src="/images/logo.png" alt="Kabima Logo" class="w-36 mb-6 animate-bounce drop-shadow-[0_3px_4px_rgba(255,255,255,0.5)]" />
-  
-  <h1 class="text-4xl md:text-6xl font-bold mb-4">Kabima Technology Indonesia</h1>
-  <p class="text-lg md:text-2xl max-w-xl">We grow with You</p>
-</section> -->
-
 <section class="w-full bg-[#0b1222] text-white min-h-screen flex items-center px-6 md:px-12">
   <div class="max-w-7xl mx-auto flex flex-col-reverse md:flex-row items-center gap-12">
     

@@ -12,14 +12,13 @@
       </ul>
     </div>
 
-    <!-- Column 2: Resources -->
+    <!-- Column 2: Services -->
     <div>
-      <h3 class="text-lg font-semibold mb-3">Resources</h3>
+      <h3 class="text-lg font-semibold mb-3">Layanan</h3>
       <ul class="space-y-2">
-        <!-- <li><a href="javascript:void(0)" class="hover:underline">Dokumentasi</a></li>
-        <li><a href="javascript:void(0)" class="hover:underline">Panduan</a></li>
-        <li><a href="javascript:void(0)" class="hover:underline">Bantuan</a></li>
-        <li><a href="javascript:void(0)" class="hover:underline">Integrasi</a></li> -->
+        <li><a href="#services" class="hover:underline">IT Consulting</a></li>
+        <li><a href="#services" class="hover:underline">Software Development</a></li>
+        <li><a href="#services" class="hover:underline">System Integration</a></li>
       </ul>
     </div>
 
@@ -36,7 +35,7 @@
 
     <!-- Column 4: Kontak & Sosial -->
     <div>
-      <h3 class="text-lg font-semibold mb-3">Kontak & Sosial</h3>
+      <h3 class="text-lg font-semibold mb-3">Kontak & Sosial Media</h3>
       <ul class="space-y-2">
         <li>Email: <a href="mailto:info@kabimatech.id" class="hover:underline">kabima.id@outlook.com</a></li>
         <li>Telp: <a href="tel:+6281234567890" class="hover:underline">+62 812 3339 8605</a></li>

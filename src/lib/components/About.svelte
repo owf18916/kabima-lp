@@ -16,12 +16,12 @@
 
     <!-- Konten -->
     <div class="text-gray-800">
-      <h2 class="text-3xl md:text-4xl font-bold mb-4">Tentang Kabima</h2>
+      <h2 class="text-3xl md:text-4xl font-bold mb-4">Tentang Perusahaan Kami</h2>
       <p class="text-lg leading-relaxed mb-4">
-        PT. Kabima Technology Indonesia adalah perusahaan yang bergerak di bidang IT Consultant dan Software Development. Kami berdedikasi memberikan solusi teknologi yang inovatif, efektif, dan terintegrasi.
+        PT. Kabima Technology Indonesia adalah perusahaan yang bergerak di bidang IT Consultant dan Software Development. Didirikan pada tahun 2024 dan berbasis di Kota Malang. Kami berdedikasi memberikan solusi teknologi yang inovatif, efektif, dan terintegrasi.
       </p>
       <p class="text-lg leading-relaxed">
-        Dengan semangat kolaboratif dan teknologi terbaru, kami membantu bisnis Anda bertumbuh dan berkembang di era digital seperti slogan kami <strong class="text-yellow-300">We grow with you.</strong>
+        Dengan semangat kolaboratif dan teknologi terbaru, kami membantu bisnis Anda bertumbuh dan berkembang di era digital seperti slogan kami <strong class="text-yellow-500">We grow with you.</strong>
       </p>
     </div>
 
