@@ -6,7 +6,7 @@
       <h3 class="text-lg font-semibold mb-3">Produk</h3>
       <ul class="space-y-2">
         <li><a href="#portfolio" class="hover:underline">Inventory System</a></li>
-        <li><a href="#portfolio" class="hover:underline">POS App</a></li>
+        <li><a href="#portfolio" class="hover:underline">Point of Sales</a></li>
         <li><a href="#portfolio" class="hover:underline">Dashboard</a></li>
         <li><a href="#portfolio" class="hover:underline">Accounting</a></li>
       </ul>
