@@ -16,14 +16,24 @@
 
   const portfolioItems: PortfolioItem[] = [
     {
-      src: "/images/portfolio/inventory.png",
-      alt: "Inventory Management",
-      description: "Sistem manajemen inventaris real-time yang mendukung pelacakan stok, kategori barang, dan pengingat restock secara otomatis.",
+      src: "/images/portfolio/landing-page.png",
+      alt: "Landing Page",
+      description: "Landing page elegan dan responsif untuk perusahaan modern, dirancang dengan TailwindCSS dan SvelteKit.",
+    },
+    {
+      src: "/images/portfolio/personal-website.png",
+      alt: "Personal Website",
+      description: "Website pribadi yang menampilkan profil, proyek, dan informasi kontak, dirancang dengan gaya elegan dan modern.",
     },
     {
       src: "/images/portfolio/pos.png",
       alt: "Point of Sale",
       description: "Aplikasi Point of Sale modern dengan integrasi barcode scanner, laporan penjualan, dan antarmuka kasir yang intuitif.",
+    },
+    {
+      src: "/images/portfolio/inventory.png",
+      alt: "Inventory Management",
+      description: "Sistem manajemen inventaris real-time yang mendukung pelacakan stok, kategori barang, dan pengingat restock secara otomatis.",
     },
     {
       src: "/images/portfolio/dashboard.png",
