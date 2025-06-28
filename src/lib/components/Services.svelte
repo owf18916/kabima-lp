@@ -1,8 +1,8 @@
 <script lang="ts">
-  // Future props or logic if needed
+  import { inView } from '$lib/actions/inView';
 </script>
 
-<section id="services" class="py-20 px-6 bg-gray-100 text-center">
+<section use:inView id="services" class="opacity-0 transition duration-800 py-20 px-6 bg-gray-100 text-center">
   <h2 class="text-3xl md:text-4xl font-bold mb-12 text-gray-800">Layanan Kami</h2>
   <div class="grid grid-cols-1 md:grid-cols-3 gap-10 max-w-6xl mx-auto">
     

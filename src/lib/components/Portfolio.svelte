@@ -50,7 +50,7 @@
   let selectedItem: PortfolioItem | null = null;
 </script>
 
-<section id="portfolio" class="py-16 bg-gray-50">
+<section use:inView id="portfolio" class="opacity-0 transition duration-800 py-16 bg-gray-50">
   <div class="max-w-7xl mx-auto px-4">
     <h2 class="text-3xl font-bold mb-8 text-center">Portofolio</h2>
 

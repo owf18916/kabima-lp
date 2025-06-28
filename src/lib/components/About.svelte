@@ -2,7 +2,7 @@
   import { inView } from '$lib/actions/inView';
 </script>
 
-<section use:inView id="about" class="opacity-0 transition duration-700 py-20 px-6 bg-white text-center">
+<section use:inView id="about" class="opacity-0 transition duration-800 py-20 px-6 bg-white text-center">
   <div class="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 items-center gap-12">
     
     <!-- Gambar -->
